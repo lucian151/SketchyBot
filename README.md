@@ -5,6 +5,7 @@ This robot is able to rotate the dials of the Etch-A-Sketch™ to plot out any g
 <p align="center">
   <img alt="Render of SketchyBot in SOLIDWORKS 2018" src="https://github.com/lucian151/SketchyBot---The-CNC-Etch-a-Sketch-/blob/master/FinalRender.png?raw=true">
 </p>
+
 The STL files are public, but the DXF files you'll need for laser cutting aren't ready for me to share. If you're impatient, you can contact me (lucianchapar@gmail.com) or derive them yourself from the SOLIDWORKS assembly.
 
 <p align="center">
