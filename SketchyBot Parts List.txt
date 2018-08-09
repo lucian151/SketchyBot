@@ -1,0 +1,69 @@
+SketchyBot Parts List:
+
+2 * Short Body (Pancake style) Nema 17 Bipolar Step Motor [$13.50 ea]
+	https://www.amazon.com/Short-Bipolar-Motor-18-4oz-13Ncm/dp/B00PNEQ79Q
+
+M3 x 4mm x 4.3mm Brass Knurled Threaded Round Insert Embedded Nuts [$5 per pack]
+	https://www.amazon.com/Uxcell-a16041800ux0833-Knurled-Threaded-Embedded/dp/B01IYWUUH8
+
+1 * Etch-a-Sketch [$20ish]
+	Make sure it matches the demensions of the one I use. Mine may be older? 
+
+M3 Stainless Steel Hex Socket Head Cap Screws  [$11 per pack]
+	https://www.amazon.com/Stainless-Assortment-Precise-Beautiful-Printed/dp/B0714FLXND
+
+Grbl 1.1 shield [$10 - $30]
+	https://www.tindie.com/products/EccentricWkshp/grblduino-shield-grbl-11-arduino-cnc-controller/
+	
+	I got a knock-off one from China for $10, but support the inventor and buy an authentic one if you can!
+
+Arduino Uno [$17.50]
+	https://www.adafruit.com/product/50
+	
+	Get one with a USB Micro connector, USB type-B is ehh
+
+Panel Mount Extension USB Cable - Micro B Male to Micro B Female [$4.95]
+	https://www.adafruit.com/product/3258
+	
+	This makes it so SketchBot's data cable is removable.
+
+2 * M3 Set Screws [$0.30 ea]
+	To hold the gears onto the stepper motor shafts
+
+Power Supply Interface PCB from Inventables [$20.00]
+	https://www.inventables.com/technologies/power-supply-interface-pcb
+	
+	I used this because I had a spare from my X-Carve. I desoldered the two sets of DC terminals, and soldered the buck 			converter + power to the GRBL sheild directly to the terminal the power switch controls.
+	
+	If you wanted to build a shake/erase mechanism, the dc terminals that have digital control would be a great point to build off 	of.
+
+16.7A Enclosed Power Supply [$39.00]
+	https://www.inventables.com/technologies/enclosed-power-supply
+
+	Again, I used this because I had a spare one from my X-Carve. This is very overkill, but most of you probably have a spare of 		this too.
+
+	The bottom of the chassis bolts into the sidewalls of this power supply to hold it all together, so if you use this, source 2 		short M5 Hex Socket Head Cap Screws
+
+DC-DC Buck Converter 5-32V to 0.8-30V [$7.29]
+	https://www.amazon.com/HJ-Garden-Converter-Regulator-Adjustable/dp/B078N1LRLR
+	
+	This let me adjust the intensity of the LED light strips inside SketchBot
+
+DC 12V 0.1A 50mm x 50mm x 10mm Fan w/Grill [$8.00]
+	https://www.amazon.com/Enokay-Bearing-Small-Brushless-Cooling/dp/B075R8P8XY
+
+	This isn't the exact one that I used, but it'll work just as well!
+
+Flexible Strip Lights, 30 cm, 2 Pieces [$5.98]
+	https://www.amazon.com/Flexible-Strip-Lights-Pieces-White/dp/B00ARYTBFY/
+
+Misc. Hardware - 
+	a few feet of wire
+	iec power cord
+	heat shrink wire wrap
+	hot glue
+	solder
+
+Materials - 
+	2 sheets of 12"x20" (iirc) 3mm acrylic 
+	.5kg of 1.75mm/3mm filament
