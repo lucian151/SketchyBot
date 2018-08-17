@@ -13,7 +13,7 @@ The STL files are public, but the DXF files you'll need for laser cutting aren't
 <img width="600" alt="Photo of assembled robot" src="https://github.com/lucian151/SketchyBot/blob/master/Pics/SketchyBot-altangle.jpg">
 </p>
 
-Thanks for reading and happy building!
+Thanks for reading and happy building! 
 
 Legal Disclaimer:
 Etch A Sketch® is a registered trademark of Spin Master Corp. ©2016-Present. All rights reserved. All other trademarks are property of their respective owners.
