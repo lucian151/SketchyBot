@@ -3,7 +3,7 @@ SketchyBot is a computer numerically controlled Etch-A-Sketch. It's designed to 
 
 The build-log is hosted on my website, over at: http://luciancapar.com/category/projects/sketchybot/
 
-This robot is able to rotate the dials of the Etch-A-Sketch™ to plot out any given path. he machine utilizes two NEMA 17 pancake stepper motors, an Arduino Uno, and a GRBL 1.1 sheild.<p align="center">
+This robot is able to rotate the dials of the Etch-A-Sketch™ to plot out any given path. The machine utilizes two NEMA 17 stepper motors, an Arduino Uno, and a GRBL 1.1 sheild.<p align="center">
   <img alt="Render of SketchyBot in SOLIDWORKS 2018" src="https://github.com/lucian151/SketchyBot---The-CNC-Etch-a-Sketch-/blob/master/FinalRender.png?raw=true">
 </p>
 
