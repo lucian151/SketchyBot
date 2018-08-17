@@ -12,7 +12,6 @@ The STL files are public, but the DXF files you'll need for laser cutting aren't
 <p align="center">
 <img width="600" alt="Photo of assembled robot" src="https://github.com/lucian151/SketchyBot/blob/master/Pics/SketchyBot-altangle.jpg">
 </p>
-
 Thanks for reading and happy building!
 
 Legal Disclaimer:
