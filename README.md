@@ -15,7 +15,7 @@ The STL files are public, but the DXF files you'll need for laser cutting aren't
 
 Thanks for reading and happy building! 
 
-Legal Disclaimer:
+Legal Disclaimer: <br>
 Etch A Sketch® is a registered trademark of Spin Master Corp. ©2016-Present. All rights reserved. All other trademarks are property of their respective owners.
 
 Everything else in this repository is Open Source. I make no claim to own/represent the Etch A Sketch® intellectual property.
